@@ -43,18 +43,16 @@ It detects human faces with 𝐦𝐚𝐬𝐤 𝐨𝐫 𝐧𝐨-𝐦𝐚𝐬𝐤 
 
 **YOLOv4 Training details**
 
-- Data File = [obj.data](https://raw.githubusercontent.com/adityap27/face-mask-detector/master/yolov4-mask-detector/obj.data)
-- Cfg file  = [yolov4-obj.cfg](https://raw.githubusercontent.com/adityap27/face-mask-detector/master/yolov4-mask-detector/yolov4-obj.cfg)
+- Data File = [obj.data](https://github.com/Bhavesh-patel585/Face_mask_detector/blob/main/yolov4_mask_detector/obj.data)
+- Cfg file  = [yolov4-obj.cfg](https://github.com/Bhavesh-patel585/Face_mask_detector/blob/main/yolov4_mask_detector/yolov4-obj.cfg)
 - Pretrained Weights for initialization= [yolov4.conv.137](https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.conv.137)
 - Main Configs from yolov4-obj.cfg:
 	- learning_rate=0.001
 	- batch=64
-	- subdivisions=64
+	- subdivisions=16
 	- steps=4800,5400
 	- max_batches = 6000
-	- i.e approx epochs = (6000*64)/700 = 548
 - **YOLOv4 Training results: _0.906244 avg loss_**
-- **Weights** of YOLOv4 trained on Face-mask Dataset: [yolov4_face_mask.weights](https://bit.ly/yolov4_mask_weights)
 
 **Model Performance: Metric is mAP@0.5 i.e Mean Average Precision - 84.83%**
 
