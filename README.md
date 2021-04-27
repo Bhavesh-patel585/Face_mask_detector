@@ -65,7 +65,7 @@ It detects human faces with 𝐦𝐚𝐬𝐤 𝐨𝐫 𝐧𝐨-𝐦𝐚𝐬𝐤 
 ### 3.2 Detection on WebCam
 - **Output Video:**
 <p align="center">
-  <img src="https://github.com/adityap27/face-mask-detector/blob/master/media/readme-webcam.gif?raw=true">
+  <img src="https://github.com/Bhavesh-patel585/Face_mask_detector/blob/main/media/webcam.gif?raw=true">
 </p>
 
 ## Suggestions to improve Performance
