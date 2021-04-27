@@ -56,7 +56,7 @@ It detects human faces with 𝐦𝐚𝐬𝐤 𝐨𝐫 𝐧𝐨-𝐦𝐚𝐬𝐤 
 
 **Model Performance: Metric is mAP@0.5 i.e Mean Average Precision - 84.83%**
 
-### 3. Inference
+## Inference
 
 - You can run model inference or detection on image/video/webcam.
 ### 3.1 Detection on Image
@@ -78,9 +78,7 @@ It detects human faces with 𝐦𝐚𝐬𝐤 𝐨𝐫 𝐧𝐨-𝐦𝐚𝐬𝐤 
 	5. Try YOLOv5 or any other Object Detection Algorithms like SSD, Faster-RCNN, RetinaNet, etc.
 
 ## References
-- [YOLOv1 Paper](https://arxiv.org/abs/1506.02640)
-- [YOLOv2 Paper](https://arxiv.org/abs/1612.08242)
 - [YOLOv3 Paper](https://arxiv.org/abs/1804.02767)
 - [YOLOv4 Paper](https://arxiv.org/abs/2004.10934)
 - [Darknet github Repo](https://github.com/AlexeyAB/darknet)
-- [YOLO Inference with GPU](https://www.pyimagesearch.com/2020/02/10/opencv-dnn-with-nvidia-gpus-1549-faster-yolo-ssd-and-mask-r-cnn/)
+- [theAIGuysCode](https://github.com/theAIGuysCode/YOLOv4-Cloud-Tutorial)
