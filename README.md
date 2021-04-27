@@ -16,7 +16,7 @@ It detects human faces with 𝐦𝐚𝐬𝐤 𝐨𝐫 𝐧𝐨-𝐦𝐚𝐬𝐤 
 	2. [Model Performance](#2-Model-Performance)
 	3. [Inference](#3-Inference)
 		1. [Detection on Image](#31-Detection-on-Image)
-		3. [Detection on WebCam](#33-Detection-on-WebCam)
+		3. [Detection on WebCam](#32-Detection-on-WebCam)
 3. [Suggestions to improve Performance](#Suggestions-to-improve-Performance)
 4. [References](#References)
 
@@ -36,10 +36,6 @@ It detects human faces with 𝐦𝐚𝐬𝐤 𝐨𝐫 𝐧𝐨-𝐦𝐚𝐬𝐤 
 |**Training Set**| 734 |
 |**Validation/Test Set**| 200 |
 |**Total**|934|
-
-- **Download the Dataset here**:
-	+ [Github Link](https://github.com/adityap27/face-mask-detector/tree/master/dataset) or
-	+ [Kaggle Link](https://www.kaggle.com/aditya276/face-mask-dataset-yolo-format)
 
 ## Deep Learning Models
 
