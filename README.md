@@ -61,7 +61,7 @@ It detects human faces with 𝐦𝐚𝐬𝐤 𝐨𝐫 𝐧𝐨-𝐦𝐚𝐬𝐤 
 - You can run model inference or detection on image/video/webcam.
 ### 3.1 Detection on Image
 - **Output Image:**
-	![1_output.jpg](https://github.com/adityap27/face-mask-detector/blob/master/output/1_output.jpg?raw=true) 
+	![predictions.jpg](https://github.com/Bhavesh-patel585/Face_mask_detector/blob/main/media/predictions.jpg?raw=true) 
 ### 3.2 Detection on WebCam
 - **Output Video:**
 <p align="center">
